@@ -1,0 +1,12 @@
+anyio==4.14.2
+asgiref==3.12.1
+certifi==2026.6.17
+click==8.4.2
+Django==6.0.7
+h11==0.16.0
+httpcore==1.0.9
+httpx==0.28.1
+idna==3.18
+python-decouple==3.8
+sqlparse==0.5.5
+uvicorn==0.51.0
